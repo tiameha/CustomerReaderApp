@@ -28,6 +28,6 @@ Re-evaluate the architecture, design, and implementation of the solution:
 
 # Send us your solution
 Please clone this repository and complete your solution in the clone. Do not push to this repository.
-Email a link to your solution to richard.garabedian@activatords.com CC michael.desanty@activatords.com and matt.murrell@activatords.com
+Email a link to your solution to 
 
 Please include a text document with a high level list of the changes you made. 
