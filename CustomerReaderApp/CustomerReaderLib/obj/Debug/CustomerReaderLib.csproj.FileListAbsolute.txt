@@ -1,0 +1,8 @@
+C:\Dev\Interview\CustomerReaderExerciseCs_New\CustomerReaderApp\CustomerReaderLib\bin\Debug\CustomerReaderLib.dll
+C:\Dev\Interview\CustomerReaderExerciseCs_New\CustomerReaderApp\CustomerReaderLib\bin\Debug\CustomerReaderLib.pdb
+C:\Dev\Interview\CustomerReaderExerciseCs_New\CustomerReaderApp\CustomerReaderLib\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Interview\CustomerReaderExerciseCs_New\CustomerReaderApp\CustomerReaderLib\obj\Debug\CustomerReaderLib.csproj.CoreCompileInputs.cache
+C:\Dev\Interview\CustomerReaderExerciseCs_New\CustomerReaderApp\CustomerReaderLib\obj\Debug\CustomerReaderLib.csproj.CopyComplete
+C:\Dev\Interview\CustomerReaderExerciseCs_New\CustomerReaderApp\CustomerReaderLib\obj\Debug\CustomerReaderLib.dll
+C:\Dev\Interview\CustomerReaderExerciseCs_New\CustomerReaderApp\CustomerReaderLib\obj\Debug\CustomerReaderLib.pdb
+C:\Dev\Interview\CustomerReaderExerciseCs_New\CustomerReaderApp\CustomerReaderLib\obj\Debug\CustomerReaderLib.csprojAssemblyReference.cache
